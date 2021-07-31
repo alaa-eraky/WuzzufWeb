@@ -14,7 +14,7 @@ https://www.kaggle.com/omarhanyy/wuzzuf-jobs
 1.	Read data set and convert it to dataframe or Spark RDD and display some from it.
 2.	Display structure and summary of the data.
 3.	Clean the data (null, duplications)
-4.	Count the jobs for each company and display that in order (What are the most demanding companies for jobs?)
+4.	Count the jobs for each company and display that in order
 5.	Show step 4 in a pie chart 
 6.	Find out What are it the most popular job titles? 
 7.	Show step 6 in bar chart 
